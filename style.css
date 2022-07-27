@@ -1,0 +1,193 @@
+body{
+    font-family: 'Oswald', sans-serif; ;
+    margin: 0%;
+    margin-top: 0%;
+    
+}
+section{
+    margin-bottom: 150px;
+    padding-bottom: 120px;
+}
+.top{
+    
+    background: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    padding: 270px 100px;
+    background-size: cover;
+
+    
+    
+    
+    
+}
+.align{
+    text-align: center;
+}
+.color{
+    color: aliceblue;
+}
+
+
+.font{
+    font-size: 60px;
+}
+.fontperagraph{
+    font-size: 30px;
+    
+}
+.input{
+    width: 27%;
+    padding: 2% 5%;
+    margin-top: 66px;  
+}
+
+
+.textmargin{
+    margin-bottom: 5%;
+}
+.button{
+    background-color: aliceblue;
+    text-decoration: none;
+    font-weight:bold;
+    border-radius:10px ;
+    color: black;
+    padding: 1% 3%;
+    
+    
+    
+}
+.button2{
+    background-color: black;
+    text-decoration: none;
+    font-weight:bold;
+    border-radius:10px ;
+    color: white;
+    padding: 1% 3%;
+    margin-top: 100%;
+    
+    
+    
+    
+}
+.box1{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width:30%;
+    margin-left: 15%;
+    margin-right: 2%;
+    padding: 2%;
+    border-radius: 10px;
+    font-size: 30px;
+    margin-right: 5%;
+}
+.box2{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width:30%;
+    margin-left: 15%;
+    margin-right: 2%;
+    padding: 2%;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 5px solid rgb(100, 97, 97);
+    background-color: rgb(218, 215, 215);
+    font-size: 30px;
+}
+.box3{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width:30%;
+    margin-left: 15%;
+    margin-right: 2%;
+    padding: 2%;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 15%;
+    font-size: 30px;
+    
+}
+.flexible{
+    display: flex;
+}
+.margin{
+    margin: 5% 40% 5% 40%;
+    
+}
+.donateplanbox1{
+    background-color: rgb(90, 80, 80);
+    width:10%;
+    margin-left: 22%;
+    margin-right: 2%;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 30px;
+    margin-right: 5%;
+
+}
+.donateplanbox2{
+    background-color: rgba(138, 108, 108, 0.377);
+    width:10%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 2%;
+    border-radius: 10px;
+    font-size: 30px;
+    margin-right: 5%;
+
+}
+.donateplanbox3{
+    background-color: rgba(138, 108, 108, 0.377);
+    width:10%;
+    margin-left: 2%;
+    margin-right: 15%;
+    padding: 2%;
+    border-radius: 10px;
+    font-size: 30px;
+    margin-right: 5%;
+
+}
+.halfwidth{
+    width: 50%;
+    padding-left: 88px;
+    padding-right: 3px;
+
+}
+.pixel{
+    width:700px
+    
+
+}
+.submitbutton{
+    background-color:black;
+    text-decoration: none;
+    font-weight:800;
+    border-radius:1px ;
+    color: white;
+    padding: 2% 3%;
+    
+}
+.email{
+    background-color:  rgba(138, 108, 108, 0.377);
+    margin: 0% 20% 0% 20%;
+    
+}
+.half{
+    
+    padding:2% 0% 7% 0%
+
+
+}
+
+footer{
+    font-family: 'Lobster', cursive;
+}
+.footer{
+    background-color: black;
+    padding-bottom: 50px;
+    color: white;
+    
+    
+}
+.behumblemargin{
+    padding-top: 20px;
+    color: rgb(255, 0, 55);
+}
+
