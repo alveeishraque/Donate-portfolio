@@ -114,34 +114,37 @@ section{
 .donateplanbox1{
     background-color: rgb(90, 80, 80);
     width:10%;
+    height: 600px;
     margin-left: 22%;
     margin-right: 2%;
     padding: 50px;
     border-radius: 10px;
-    font-size: 30px;
-    margin-right: 5%;
+    font-size: 150%;
+    
 
 }
 .donateplanbox2{
     background-color: rgba(138, 108, 108, 0.377);
     width:10%;
+    height: 600px;
     margin-left: 2%;
     margin-right: 2%;
     padding: 50px;
     border-radius: 10px;
-    font-size: 30px;
-    margin-right: 5%;
+    font-size: 150%;
+    
 
 }
 .donateplanbox3{
     background-color: rgba(138, 108, 108, 0.377);
     width:10%;
+    height: 600px;
     margin-left: 2%;
     margin-right: 15%;
-    padding: 2%;
+    padding: 50px;
     border-radius: 10px;
-    font-size: 30px;
-    margin-right: 5%;
+    font-size: 150%;
+    
 
 }
 .halfwidth{
